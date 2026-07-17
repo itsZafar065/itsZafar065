@@ -1,27 +1,71 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact🔭 I’m currently working on<br>Building a modern AI-powered CRM platform with React, Next.js, Node.js, MongoDB, and Tailwind CSS.<br><br>👯 I’m looking to collaborate on<br>Open Source projects, SaaS applications, AI tools, and Full Stack web development.<br><br>🤝 I’m looking for help with<br>Scaling SaaS products, cloud architecture, performance optimization, and AI integrations.<br><br>🌱 I’m currently learning<br>Advanced System Design, AI Automation, DevOps, and Microservices.<br><br>💬 Ask me about<br>React, Next.js, MERN Stack, Node.js, MongoDB, WordPress, Shopify, Tailwind CSS, REST APIs, UI/UX, Figma, Photoshop, and Illustrator.<br><br>⚡ Fun fact<br>I enjoy turning ideas into scalable web applications and love exploring new technologies.
+# 🔥 Zafar Muhammad
+### Full Stack Web Developer & CMS Architect
 
-
-## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@AnimHubOfficial) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=itsZafar065&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=itsZafar065&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsZafar065&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itsZafar065&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itsZafar065&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <strong>💼 Role:</strong> Full Stack Software Engineer <br />
+  <strong>📍 Location:</strong> Karachi, Pakistan <br />
+  <strong>🚀 Current Focus:</strong> Next.js Ecosystems & AI CRM Implementations
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=itsZafar065&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔮 Profile Overview
+I am a **WordPress & Full Stack Web Developer** with 3+ years of experience engineering high-performance web applications. Balancing custom monolithic setups with cutting-edge JavaScript frameworks, I build responsive, secure, and production-ready systems designed to scale seamlessly.
+
+---
+
+## 🛠️ Engineered Technology Stack
+
+### 🖥️ Frontend Architecture
+* **Frameworks & Core:** React (Vite), Next.js, JavaScript (ES6+), TypeScript
+* **Styling & Layout:** Tailwind CSS, Bootstrap, HTML5, CSS3, Responsive Design
+* **Design Systems:** Figma, Canva
+
+### ⚙️ Backend & Database Systems
+* **Runtime & Frameworks:** Node.js, Express.js, PHP, Laravel
+* **Data Infrastructure:** MongoDB, MySQL, Firebase
+* **API Development:** RESTful APIs, Postman Client, Third-Party Integrations
+
+### 🛍️ Content Management Systems (CMS)
+* **WordPress Platform:** Custom Plugin Development, Theme Customization, Elementor Pro, WoodMart Custom Settings
+* **Local Workflow:** XAMPP Local Development Environment
+
+### 🔧 Development Tooling & DevOps
+* **Version Control:** Git, GitHub Architecture
+* **Environment & Shell:** VS Code IDE, Docker Containers, Linux Shell
+
+---
+
+## ⚡ Active Projects & Deployments
+* **Token Management System:** Custom web application featuring dual English and Urdu user interfaces, automated voice control layers, and complete admin dashboard analytics.
+* **Ala Mode PK2:** Managed frontend configurations, secure asset integration, and transactional routing optimizations for an e-commerce flagship brand.
+* **Custom Enterprise Components:** Built custom utility plugins managed with strict object-oriented logic standards (e.g., *Zafar Custom Footer Settings*).
+
+---
+
+## 🐍 GitHub Contribution Matrix
+
+<!-- Standard repository engine snake animation path -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itsZafar065/itsZafar065/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</div>
+
+---
+
+## 🤝 Open Terminal Gateway
+
+<table width="100%" style="background-color: #0d1117; border-collapse: collapse; border-radius: 12px; border: 1px solid #30363d;">
+  <tr>
+    <td style="padding: 24px;" align="center">
+      <p style="color: #c9d1d9; margin-top: 0; margin-bottom: 16px; font-size: 15px;">Let's collaborate on production-ready software platforms or customized logic architectures.</p>
+      <p style="margin: 0; font-family: monospace; font-size: 14px;">
+        <strong>Email Secure Hub:</strong> <a href="mailto:channazafar66@gmail.com" style="color: #00F2FE; text-decoration: none;">channazafar66@gmail.com</a>
+        <span>&nbsp;&bull;&nbsp;</span>
+        <strong>GitHub Node:</strong> <a href="https://github.com/itsZafar065" style="color: #7F00FF; text-decoration: none;">github.com/itsZafar065</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+<p align="center"><em style="font-size: 11px; font-family: monospace;">// "Simplicity is the consequence of structured complexity."</em></p>
