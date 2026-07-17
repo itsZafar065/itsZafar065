@@ -1,22 +1,22 @@
-<!-- Animated Wave Header -->
+<!-- Animated Wave Header & Brand Banner (Online Hosted) -->
 <p align="center">
-  <img src="assets/header_wave.svg" width="100%" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=300&section=header&text=ZAFAR&fontSize=75&fontColor=ffffff&desc=%E2%9A%A1%20Senior%20Full%20Stack%20Architect%20%7C%20SaaS%20%26%20AI%20Developer%20%E2%9A%A1&descSize=20&descAlignY=62&fontAlignY=38&animation=fadeIn" width="100%" alt="Zafar Header Banner" />
 </p>
-<!-- Professional Brand Banner -->
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Zafar's Banner" />
-</p>
+
 <!-- Animated Typing Subtitle -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=%E2%9A%A1+Senior+Full+Stack+Developer;%E2%9A%A1+MERN+Stack+Specialist;%E2%9A%A1+AI-powered+CRM+%26+SaaS+Builder;%E2%9A%A1+WordPress+%26+Shopify+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=%E2%9A%A1+SaaS+%26+CRM+Architect;%E2%9A%A1+MERN+Stack+Applications;%E2%9A%A1+WordPress+%26+Shopify+Stores;%E2%9A%A1+AI-powered+Solutions;%E2%9A%A1+Modern+UI/UX+Designs" alt="Typing SVG" />
   </a>
 </p>
-<!-- Sleek Gradient Divider -->
+
+<!-- Sleek Gradient Divider (Online Hosted) -->
 <p align="center">
-  <img src="assets/section_divider.svg" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=4&section=header" width="100%" alt="Divider" />
 </p>
+
 ## 🧑‍💻 About Me
+
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="60%" valign="top">
@@ -42,11 +42,14 @@
     </td>
   </tr>
 </table>
-<!-- Sleek Gradient Divider -->
+
+<!-- Sleek Gradient Divider (Online Hosted) -->
 <p align="center">
-  <img src="assets/section_divider.svg" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=4&section=header" width="100%" alt="Divider" />
 </p>
+
 ## 💻 Tech Stack
+
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
     <td align="center" valign="top" width="25%">
@@ -67,11 +70,14 @@
     </td>
   </tr>
 </table>
-<!-- Sleek Gradient Divider -->
+
+<!-- Sleek Gradient Divider (Online Hosted) -->
 <p align="center">
-  <img src="assets/section_divider.svg" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=4&section=header" width="100%" alt="Divider" />
 </p>
+
 ## 📁 Active Projects & Architectures
+
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -98,39 +104,51 @@
     </td>
   </tr>
 </table>
-<!-- Sleek Gradient Divider -->
+
+<!-- Sleek Gradient Divider (Online Hosted) -->
 <p align="center">
-  <img src="assets/section_divider.svg" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=4&section=header" width="100%" alt="Divider" />
 </p>
+
 ## 📊 Developer Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsZafar065&show_icons=true&theme=dark&title_color=00F2FE&icon_color=7928CA&text_color=E5E7EB&bg_color=0A0A0C&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZafar065&layout=compact&theme=dark&title_color=00F2FE&icon_color=7928CA&text_color=E5E7EB&bg_color=0A0A0C&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsZafar065&show_icons=true&theme=dark&title_color=00F2FE&icon_color=7928CA&text_color=E5E7EB&bg_color=0D0E12&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZafar065&layout=compact&theme=dark&title_color=00F2FE&icon_color=7928CA&text_color=E5E7EB&bg_color=0D0E12&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZafar065&theme=dark&background=0A0A0C&ring=7928CA&fire=00F2FE&currStreakLabel=00F2FE&sideNums=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&hide_border=true" alt="GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZafar065&theme=dark&background=0D0E12&ring=7928CA&fire=00F2FE&currStreakLabel=00F2FE&sideNums=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsZafar065&theme=darkhub&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
-<!-- Sleek Gradient Divider -->
+
+<!-- Sleek Gradient Divider (Online Hosted) -->
 <p align="center">
-  <img src="assets/section_divider.svg" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=4&section=header" width="100%" alt="Divider" />
 </p>
+
 ## 📈 Activity & Contributions
+
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsZafar065&theme=react-dark&bg_color=0A0A0C&color=00F2FE&line=7928CA&point=00D2FF&area=true&hide_border=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsZafar065&theme=react-dark&bg_color=0D0E12&color=00F2FE&line=7928CA&point=00D2FF&area=true&hide_border=true" alt="Activity Graph" width="98%" />
 </p>
+
 <!-- Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsZafar065/itsZafar065/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="98%" />
 </p>
-<!-- Sleek Gradient Divider -->
+
+<!-- Sleek Gradient Divider (Online Hosted) -->
 <p align="center">
-  <img src="assets/section_divider.svg" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=4&section=header" width="100%" alt="Divider" />
 </p>
+
 ## 🤝 Connect & Collaborate
+
 <p align="center">
   <a href="https://github.com/itsZafar065">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
@@ -142,29 +160,39 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/personal-badge/?username=itsZafar065&color=00F2FE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-<!-- Sleek Gradient Divider -->
+
+<!-- Sleek Gradient Divider (Online Hosted) -->
 <p align="center">
-  <img src="assets/section_divider.svg" width="100%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=4&section=header" width="100%" alt="Divider" />
 </p>
+
 <!-- Inspirational Quote -->
 <div align="center">
   <p><i>"Simplicity is the ultimate sophistication. Quality is never an accident; it is always the result of intelligent effort."</i></p>
 </div>
-<!-- Animated Wave Footer -->
+
+<!-- Animated Wave Footer (Online Hosted) -->
 <p align="center">
-  <img src="assets/footer_wave.svg" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00F2FE,50,7928CA,100,00D2FF&height=120&section=footer" width="100%" alt="Footer Wave" />
 </p>
+
 ---
+
 ## 🛠️ GitHub Actions Setup: Automated Contribution Snake
+
 To enable the contribution snake animation seen above, you need to set up a GitHub Actions workflow in your profile repository. Follow these steps:
+
 1. Create a directory named `.github/workflows` in your repository.
 2. Inside that directory, create a file named `generate-snake.yml`.
 3. Paste the following YAML configuration inside `generate-snake.yml`:
+
 ```yaml
 name: Generate Snake
+
 on:
   schedule: # Execute every 12 hours
     - cron: "0 */12 * * *"
@@ -172,10 +200,12 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       # Generates a snake game from a github user's contributions graph, output an SVG animation
       - name: Generate github-contribution-grid-snake.svg
@@ -185,6 +215,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       # Push the content of <build_dir> to a branch
       # The content will be available at https://raw.githubusercontent.com/<username>/<repo>/<branch>/<path>
       - name: Push github-contribution-grid-snake.svg to Output Branch
@@ -195,5 +226,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
 4. Go to your repository settings on GitHub: **Settings > Actions > General > Workflow permissions** and select **"Read and write permissions"**, then click **Save**.
 5. Run the workflow manually from the **Actions** tab of your repository to generate your first snake!
