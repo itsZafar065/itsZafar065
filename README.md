@@ -20,7 +20,7 @@
 
 - 💼 Full Stack Developer with **3+ years** of experience
 - ⚛️ React • Next.js • Node.js • Express • MongoDB
-- 🛒 WordPress • Shopify • Tailwind CSS
+- 🛒 WordPress • Figma • Shopify • Tailwind CSS
 - 🤖 Currently building an **AI Powered CRM Platform**
 - 🎯 Passionate about SaaS, UI/UX and scalable products
 
