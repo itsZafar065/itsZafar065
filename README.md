@@ -1,91 +1,92 @@
-# Hi there, I'm Zafar Muhammad! 👋
-
-### Full Stack Developer | Mern Developer | Figma | Shopify
-
-Full Stack Developer passionate about building scalable web applications and modern software solutions. I specialize in creating responsive, high-performance websites and full-stack applications using modern technologies, with a focus on clean code, user experience, and problem-solving.
-
-
-- 🔭 I’m currently working on **CRM Product**
-- 🌱 I’m currently learning **Scalable Web Architecture, DevOps, and AI Integration.**
-- 💬 Ask me about *** Full-Stack Development, Web Applications, APIs, and Database Design. * React, Next.js, Node.js, Express.js, MongoDB, and REST APIs. * Building Scalable Web Applications, Backend Development, and UI/UX. * JavaScript, TypeScript, Full-Stack Architecture, and Performance Optimization. * Web Development, Software Engineering, and Modern Development Practices.**
-- ⚡ Fun fact: **My favorite part of development is turning ideas into real, working products.**
-
----
-
-### 🛠️ Tech Stack & Skills
+# Hey there! I'm Zafar 👋
+### Full-Stack Web Developer & Tech Enthusiast 🚀
 
 <p align="left">
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-purple?style=flat-round&logo=react" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Modern%20Web%20Apps-blue?style=flat-round&logo=nextdotjs" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=flat-round" alt="Status" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 💫 About Me
+I am a passionate **Full Stack Web Developer** who loves crafting scalable, fast, and user-centric web applications. I specialize in the modern JavaScript ecosystem (MERN/Next.js) and enjoy translating complex problems into elegant code.
+
+- 🔭 I’m currently working on building premium web applications.
+- 🌱 I’m currently diving deeper into **Next.js App Router, Server Actions, & Performance Optimization**.
+- 💬 Ask me about **React, Express, Node.js, and Database Modeling**.
+- ⚡ Fun fact: I debug code faster with lo-fi beats in the background!
+
+---
+
+### 🛠️ Tech Stack & Toolkit
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git/GitHub
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics & Insights
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsZafar065&show_icons=true&theme=radical&locale=en" alt="itsZafar065's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZafar065&theme=radical" alt="itsZafar065's Contribution Streak" height="150" />
+  <a href="https://github.com/itsZafar065">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsZafar065&show_icons=true&theme=tokyonight&count_private=true" alt="Zafar's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZafar065&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/itsZafar065">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZafar065&theme=tokyonight" alt="GitHub Streak" height="180" />
+  </a>
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-
 <p align="left">
-  <a href="mailto:channazafar66@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:shazaibchanna88@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/itsZafar065" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://linkedin.com/in/itsZafar065" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
