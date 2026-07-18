@@ -1,90 +1,156 @@
 # Hey there! I'm Zafar 👋
-### Full-Stack Web Developer & Tech Enthusiast 🚀
+### Full-Stack Developer | WordPress Specialist | UI/UX Designer 🚀
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-purple?style=flat-round&logo=react" alt="Role" />
-  <img src="https://img.shields.io/badge/Focus-Modern%20Web%20Apps-blue?style=flat-round&logo=nextdotjs" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-green?style=flat-round" alt="Status" />
-</p>
+---
+
+> "Simplicity is the ultimate sophistication. I strive to write clean, efficient code and craft visually stunning interfaces that deliver seamless user experiences." 
+> — *Zafar*
 
 ---
 
 ### 💫 About Me
-I am a passionate **Full Stack Web Developer** who loves crafting scalable, fast, and user-centric web applications. I specialize in the modern JavaScript ecosystem (MERN/Next.js) and enjoy translating complex problems into elegant code.
+I am a versatile **developer and designer** passionate about bridging the gap between design and technology. With expertise spanning Full-Stack Web Development, custom WordPress solutions, and UI/UX design, I create complete digital products from concept to deployment.
 
-- 🔭 I’m currently working on building premium web applications.
-- 🌱 I’m currently diving deeper into **Next.js App Router, Server Actions, & Performance Optimization**.
-- 💬 Ask me about **React, Express, Node.js, and Database Modeling**.
-- ⚡ Fun fact: I debug code faster with lo-fi beats in the background!
+- 🔭 Focus Areas: **MERN Stack & Next.js Development, Custom WordPress Architectures, and Figma Prototyping**.
+- 🌱 Always learning: **Advanced Server Components, JAMstack, and Design Systems**.
+- 💬 Let's discuss: **Clean architectures, performance optimization, and product layouts**.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Professional Tech Stack & Capabilities
 
+#### 💻 Full-Stack Development
 <table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
       <br>Next.js
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
       <br>Tailwind CSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" />
+      <br>Express.js
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git/GitHub
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
+      <br>REST APIs
+    </td>
+  </tr>
+</table>
+
+#### 🔌 WordPress & CMS Ecosystem
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
+      <br>WordPress
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" height="30" alt="Elementor" />
+      <br>Elementor Pro
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" height="30" alt="WooCommerce" />
+      <br>WooCommerce
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Custom--Themes-blue?style=for-the-badge&logo=wordpress" height="30" alt="Custom Themes" />
+      <br>Custom Dev
+    </td>
+  </tr>
+</table>
+
+#### 🎨 Design & UI/UX
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ps" width="40" height="40" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=xd" width="40" height="40" alt="Adobe XD" />
+      <br>Adobe XD
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Illustrator" />
+      <br>Illustrator
+    </td>
+  </tr>
+</table>
+
+#### 🛠️ Workflow & Deployments
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" />
+      <br>npm
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics & Insights
-
-<p align="left">
-  <a href="https://github.com/itsZafar065">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsZafar065&show_icons=true&theme=tokyonight&count_private=true" alt="Zafar's GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/itsZafar065">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsZafar065&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/itsZafar065">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZafar065&theme=tokyonight" alt="GitHub Streak" height="180" />
-  </a>
-</p>
-
----
-
-### 🤝 Connect with Me
+### 🤝 Let's Connect!
 <p align="left">
   <a href="mailto:shazaibchanna88@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/itsZafar065" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
