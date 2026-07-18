@@ -1,71 +1,91 @@
-# 🔥 Zafar Muhammad
-### Full Stack Web Developer & CMS Architect
+# Hi there, I'm Zafar Muhammad! 👋
+
+### Full Stack Developer | Mern Developer | Figma | Shopify
+
+Full Stack Developer passionate about building scalable web applications and modern software solutions. I specialize in creating responsive, high-performance websites and full-stack applications using modern technologies, with a focus on clean code, user experience, and problem-solving.
+
+
+- 🔭 I’m currently working on **CRM Product**
+- 🌱 I’m currently learning **Scalable Web Architecture, DevOps, and AI Integration.**
+- 💬 Ask me about *** Full-Stack Development, Web Applications, APIs, and Database Design. * React, Next.js, Node.js, Express.js, MongoDB, and REST APIs. * Building Scalable Web Applications, Backend Development, and UI/UX. * JavaScript, TypeScript, Full-Stack Architecture, and Performance Optimization. * Web Development, Software Engineering, and Modern Development Practices.**
+- ⚡ Fun fact: **My favorite part of development is turning ideas into real, working products.**
+
+---
+
+### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <strong>💼 Role:</strong> Full Stack Software Engineer <br />
-  <strong>📍 Location:</strong> Karachi, Pakistan <br />
-  <strong>🚀 Current Focus:</strong> Next.js Ecosystems & AI CRM Implementations
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  </a>
+  <a href="https://github.com/itsZafar065">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
 </p>
 
 ---
 
-## 🔮 Profile Overview
-I am a **WordPress & Full Stack Web Developer** with 3+ years of experience engineering high-performance web applications. Balancing custom monolithic setups with cutting-edge JavaScript frameworks, I build responsive, secure, and production-ready systems designed to scale seamlessly.
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsZafar065&show_icons=true&theme=radical&locale=en" alt="itsZafar065's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsZafar065&theme=radical" alt="itsZafar065's Contribution Streak" height="150" />
+</p>
 
 ---
 
-## 🛠️ Engineered Technology Stack
+### 🤝 Connect with Me
 
-### 🖥️ Frontend Architecture
-* **Frameworks & Core:** React (Vite), Next.js, JavaScript (ES6+), TypeScript
-* **Styling & Layout:** Tailwind CSS, Bootstrap, HTML5, CSS3, Responsive Design
-* **Design Systems:** Figma, Canva
-
-### ⚙️ Backend & Database Systems
-* **Runtime & Frameworks:** Node.js, Express.js, PHP, Laravel
-* **Data Infrastructure:** MongoDB, MySQL, Firebase
-* **API Development:** RESTful APIs, Postman Client, Third-Party Integrations
-
-### 🛍️ Content Management Systems (CMS)
-* **WordPress Platform:** Custom Plugin Development, Theme Customization, Elementor Pro, WoodMart Custom Settings
-* **Local Workflow:** XAMPP Local Development Environment
-
-### 🔧 Development Tooling & DevOps
-* **Version Control:** Git, GitHub Architecture
-* **Environment & Shell:** VS Code IDE, Docker Containers, Linux Shell
-
----
-
-## ⚡ Active Projects & Deployments
-* **Token Management System:** Custom web application featuring dual English and Urdu user interfaces, automated voice control layers, and complete admin dashboard analytics.
-* **Ala Mode PK2:** Managed frontend configurations, secure asset integration, and transactional routing optimizations for an e-commerce flagship brand.
-* **Custom Enterprise Components:** Built custom utility plugins managed with strict object-oriented logic standards (e.g., *Zafar Custom Footer Settings*).
-
----
-
-## 🐍 GitHub Contribution Matrix
-
-<!-- Standard repository engine snake animation path -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsZafar065/itsZafar065/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
-
----
-
-## 🤝 Open Terminal Gateway
-
-<table width="100%" style="background-color: #0d1117; border-collapse: collapse; border-radius: 12px; border: 1px solid #30363d;">
-  <tr>
-    <td style="padding: 24px;" align="center">
-      <p style="color: #c9d1d9; margin-top: 0; margin-bottom: 16px; font-size: 15px;">Let's collaborate on production-ready software platforms or customized logic architectures.</p>
-      <p style="margin: 0; font-family: monospace; font-size: 14px;">
-        <strong>Email Secure Hub:</strong> <a href="mailto:channazafar66@gmail.com" style="color: #00F2FE; text-decoration: none;">channazafar66@gmail.com</a>
-        <span>&nbsp;&bull;&nbsp;</span>
-        <strong>GitHub Node:</strong> <a href="https://github.com/itsZafar065" style="color: #7F00FF; text-decoration: none;">github.com/itsZafar065</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-<p align="center"><em style="font-size: 11px; font-family: monospace;">// "Simplicity is the consequence of structured complexity."</em></p>
+<p align="left">
+  <a href="mailto:channazafar66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/itsZafar065" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
